@@ -1,0 +1,13 @@
+tipo:economica:50000:300.0
+tipo:premium:100000:200.0
+tipo:Corriente:60000:100.0
+tipo:Diesel:80000:120.0
+surtidor:Samuel:economica:0.0:premium:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Samuel:economica:0.0:premium:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Santiago:economica:0.0:premium:0.0:Corriente:0.0:Diesel:0.0
+surtidor:Santiago:economica:0.0:premium:0.0:Corriente:0.0:Diesel:0.0
+empleado:Samuel:0
+empleado:Andres:0
+empleado:Santiago:0
+empleado:Molina:0
+empleado:Luna:0
